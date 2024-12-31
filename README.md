@@ -56,7 +56,9 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 - [Basketball Stats Jam](#basketball-stats-jam) 🏀 
 
-### [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam) 🏀
+### Basketball Stats Jam 🏀
+
+[Link](https://github.com/RossMagill/Basketball-Stats-Jam)
 
 ###### Description:
 
