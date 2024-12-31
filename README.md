@@ -50,15 +50,17 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 ---
 
-## Projects 🧑🏻‍💻
+## Key Piece Projects 🧑🏻‍💻
 
 #### Quick Navigation 🔗
 
-- [Basketball Stats Jam](#basketball-stats-jam) 🏀 
+- [Basketball Stats Jam](#basketball-stats-jam) 🏀
+
+---
 
 ### Basketball Stats Jam 🏀
 
-[Link](https://github.com/RossMagill/Basketball-Stats-Jam)
+[GitHub Repository Link](https://github.com/RossMagill/Basketball-Stats-Jam)
 
 ###### Description:
 
@@ -76,4 +78,6 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 ###### My Role:
 -
+
+---
 
