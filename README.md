@@ -47,6 +47,15 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+## Projects
+
+#### [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam)
+
+###### Tools Used
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+###### My Role
 <!--
 **RossMagill/RossMagill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
