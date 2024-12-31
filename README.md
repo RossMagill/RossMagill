@@ -54,24 +54,24 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 #### Quick Navigation 🔗
 
-- [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam) 🏀 
-
-###### Description
+- [Basketball Stats Jam](#basketball-stats-jam) 🏀 
 
 ### [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam) 🏀
-**Description:**  
+
+###### Description:
+
 *Basketball Stats Jam* is a basketball statistics tracking tool...
 
-**Features:**
+###### Features:
 - Real-time stat tracking
 -
 
-###### Tools Used
+###### Tools Used:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**My Role:**  
+###### My Role:
 -
 
