@@ -14,7 +14,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 ## Tech Stack 💾
 
-# Programming Languages & Version Control
+#### Programming Languages & Version Control
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,24 +28,24 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# Data & Visualisation
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-# Design & Documentation
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-# Audio Engineering
+#### Audio Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Pro%20Tools-000000?style=for-the-badge&logo=protools&logoColor=white" alt="Pro Tools Badge">
   <img src="https://github.com/RossMagill/RossMagill/blob/main/assets/REAPER_badge.png?raw=true" alt="REAPER Logo" width="80">
   <img src="https://github.com/RossMagill/RossMagill/blob/main/assets/LUNA_badge.png?raw=true" alt="LUNA Badge" width="120">
 </p>
+
+#### Design & Documentation
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+#### Data & Visualisation
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 <!--
 **RossMagill/RossMagill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
