@@ -54,7 +54,12 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 #### Quick Navigation 🔗
 
+- Into the Dataswarm 👾
+- OneOnOne 🗓️
 - [Basketball Stats Jam](#basketball-stats-jam) 🏀
+- Live Baseball Scores ⚾
+- Live Ski 🎿
+- Live Hockey Scores 🏒
 
 ---
 
