@@ -27,6 +27,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Audio Engineering
 
@@ -47,26 +48,30 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+---
+
 ## Projects 🧑🏻‍💻
 
-#### [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam)
+#### Quick Navigation 🔗
+
+- [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam) 🏀 
+
+###### Description
+
+### [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam) 🏀
+**Description:**  
+*Basketball Stats Jam* is a basketball statistics tracking tool...
+
+**Features:**
+- Real-time stat tracking
+-
 
 ###### Tools Used
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-###### My Role
-<!--
-**RossMagill/RossMagill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Role:**  
+-
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
