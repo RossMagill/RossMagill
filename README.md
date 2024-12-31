@@ -10,6 +10,11 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 - 😄 Pronouns: He/him<br/>
 - ⚡ Fun fact: I can play 5 musical instruments!
 
+
+
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 <!--
 **RossMagill/RossMagill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
