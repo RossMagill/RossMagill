@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome to my GitHub portfolio! 👋
+
+Hello! I'm Ross Magill, a developer currently in my final year at the University of Toronto.
+
+Here, you'll find a collection of repositories that highlight my skills and experience in video game development, full-stack web development, and more.
+
+- 🧑🏻‍🎓 I am studying psychology, cognitive science and computer science at the University of Toronto<br/>
+- 🔭 I’m currently working on a video game called Into the Dataswarm!<br/>
+- 🌱 I’m currently learning Kotlin and Android development<br/>
+- 😄 Pronouns: He/him<br/>
+- ⚡ Fun fact: I can play 5 musical instruments!
 
 <!--
 **RossMagill/RossMagill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
