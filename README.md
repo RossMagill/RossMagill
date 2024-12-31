@@ -7,10 +7,10 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ## About Me 🤙
 
 - 🧑🏻‍🎓 I am studying psychology, cognitive science and computer science at the University of Toronto<br/>
-- 🔭 I’m currently working on a video game called Into the Dataswarm!<br/>
+- 🔭 I’m currently working on a video game called *Into the Dataswarm*<br/>
 - 🌱 I’m currently learning Kotlin and Android development<br/>
 - 😄 Pronouns: He/him<br/>
-- ⚡ Fun fact: I can play 5 musical instruments!
+- ⚡ Fun fact: I can play 5 musical instruments
 
 ## Tech Stack 💾
 
