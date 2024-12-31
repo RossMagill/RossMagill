@@ -12,7 +12,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 - 😄 Pronouns: He/him<br/>
 - ⚡ Fun fact: I can play 5 musical instruments
 
-## Tech Stack 💾
+## Tech Stack 🛠️
 
 #### Programming Languages & Version Control
 
@@ -47,7 +47,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## Projects
+## Projects 🧑🏻‍💻
 
 #### [Basketball Stats Jam](https://github.com/RossMagill/Basketball-Stats-Jam)
 
