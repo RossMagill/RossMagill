@@ -43,7 +43,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 <p>
   <img src="https://img.shields.io/badge/Pro%20Tools-000000?style=for-the-badge&logo=protools&logoColor=white" alt="Pro Tools Badge">
-  <img src="https://github.com/RossMagill/RossMagill/blob/main/assets/REAPER_logo.png?raw=true" alt="REAPER Logo" width="80">
+  <img src="https://github.com/RossMagill/RossMagill/blob/main/assets/REAPER_badge.png?raw=true" alt="REAPER Logo" width="80">
   <img src="https://github.com/RossMagill/RossMagill/blob/main/assets/LUNA_badge.png?raw=true" alt="LUNA Badge" width="120">
 </p>
 
