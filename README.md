@@ -57,7 +57,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 ---
 
-## Key Piece Projects 🧑🏻‍💻
+## Projects 🧑🏻‍💻
 
 #### Quick Navigation 🔗
 
