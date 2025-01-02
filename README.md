@@ -65,8 +65,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 - OneOnOne 🗓️
 - [Basketball Stats Jam](#basketball-stats-jam) 🏀
 - Live Baseball Scores ⚾
-- Live Ski 🎿
-- Live Hockey Scores 🏒
+- Live Hockey Scores 🏒 (WIP)
 
 ---
 
