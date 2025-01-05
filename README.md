@@ -62,9 +62,10 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 #### Quick Navigation for Key Pieces 🔗
 
 - Into the Dataswarm 👾 (Currently unavailble - in active development)
-- [OneOnOne - Frontend 🗓️](https://github.com/RossMagill/OneOnOne-Frontend) 
+- [OneOnOne - Frontend 🗓️](https://github.com/RossMagill/OneOnOne-Frontend)
+- 
 - [OneOnOne - Backend ⚙️](https://github.com/RossMagill/OneOnOne-Backend) 
 - [Basketball Stats Jam 🏀](https://github.com/RossMagill/Basketball-Stats-Jam) 
 - [Live Baseball Scores ⚾](https://github.com/RossMagill/Live-Baseball-Scores)
-- Live Hockey Scores 🏒 (WIP - Currently Unavailable)
+- Live Hockey Scores 🏒 (Currently Unavailable - WIP)
 
