@@ -59,84 +59,12 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 ## Projects 🧑🏻‍💻
 
-#### Quick Navigation 🔗
+#### Quick Navigation for Key Pieces 🔗
 
-- Into the Dataswarm 👾
-- OneOnOne 🗓️
-- [Basketball Stats Jam](#basketball-stats-jam) 🏀
-- Live Baseball Scores ⚾
+- Into the Dataswarm 👾 (Currently unavailble - in active development)
+- [OneOnOne - Frontend 🗓️](https://github.com/RossMagill/OneOnOne-Frontend) 
+- [OneOnOne - Backend ⚙️](https://github.com/RossMagill/OneOnOne-Backend) 
+- [Basketball Stats Jam 🏀](https://github.com/RossMagill/Basketball-Stats-Jam) 
+- [Live Baseball Scores ⚾](https://github.com/RossMagill/Live-Baseball-Scores)
 - Live Hockey Scores 🏒 (WIP - Currently Unavailable)
-
----
-
-### OneOnOne 🗓️
-
-###### Description:
-
-*OneOnOne* is ...
-
-###### Features:
-- 
--
-
-###### Tools Used:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-###### My Role:
--
-
----
-
-### Into the Dataswarm 👾
-
-###### Description:
-
-*Into the Dataswarm* is ...
-
-###### Features:
-- 
--
-
-###### Tools Used:
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-###### My Role:
--
-
----
-
-### Basketball Stats Jam 🏀
-
-[GitHub Repository Link](https://github.com/RossMagill/Basketball-Stats-Jam)
-
-###### Description:
-
-*Basketball Stats Jam* is a basketball statistics tracking tool...
-
-###### Features:
-- Real-time stat tracking
--
-
-###### Tools Used:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-###### My Role:
--
-
----
 
