@@ -7,7 +7,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 ## About Me 🤙
 
 - 🧑🏻‍🎓 I am studying psychology, cognitive science and computer science at the University of Toronto<br/>
-- 🔭 I’m currently working on a solo indie game called *Hollow Eden*<br/>
+- 🔭 I’m currently working on a solo indie game called *Static Descent*<br/>
 - 🌱 I’m currently learning Kotlin and Android development<br/>
 - 😄 Pronouns: He/him<br/>
 - ⚡ Fun fact: I can play 5 musical instruments
@@ -61,10 +61,10 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 #### Quick Navigation for Key Pieces 🔗
 
-- Into the Dataswarm 👾 (Currently unavailble - in active development)
 - [OneOnOne - Frontend 🗓️](https://github.com/RossMagill/OneOnOne-Frontend)
 - [OneOnOne - Backend ⚙️](https://github.com/RossMagill/OneOnOne-Backend) 
 - [Basketball Stats Jam 🏀](https://github.com/RossMagill/Basketball-Stats-Jam) 
 - [Live Baseball Scores ⚾](https://github.com/RossMagill/Live-Baseball-Scores)
 - Live Hockey Scores 🏒 (Currently Unavailable - WIP)
+- [Into the Dataswarm 👾](https://pokemonball34.itch.io/into-the-dataswarm)
 
