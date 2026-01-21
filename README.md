@@ -6,7 +6,7 @@ Here, you'll find a collection of repositories that highlight my skills and expe
 
 ## About Me 🤙
 
-- 🧑🏻‍🎓 I studied psychology, cognitive science and computer science at the University of Toronto, and am now a Master's student at the Centre for Digital Media in Vancouver BC<br/>
+- 🧑🏻‍🎓 I studied psychology, cognitive science and computer science at the University of Toronto, and am now a graduate student at the Centre for Digital Media in Vancouver BC<br/>
 - 🔭 I’m currently working on a solo indie game called *Static Descent*<br/>
 - 🌱 I’m currently learning Kotlin and Android development<br/>
 - 😄 Pronouns: He/him<br/>
